@@ -26,7 +26,7 @@ KeyWatcher is an educational JavaScript-based keylogging tool created to demonst
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/username/KeyWatcher.git
+   git clone https://github.com/tejas7070/KeyWatcher.git
    cd KeyWatcher
 Open the index.html file in a web browser to run the project.
 🚀 Usage
